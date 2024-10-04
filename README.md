@@ -1,5 +1,5 @@
 # 💫 Hi, I'm I Komang Radita Suardhana
-🌱 I'm currently learning about full stack web development<br>💬 Bertanya kepada saya tentang dunia IT, Khususnya di bidang programmer dan design<br>⚡ Fun facts i love exploring things that are in direct contact with the latest technology
+🌱 I'm currently learning about full stack web development<br>💬 Ask me about the world of IT, especially in the field of programmers and design<br>⚡ Fun facts i love exploring things that are in direct contact with the latest technology
 
 
 ## 🌐 Socials:
