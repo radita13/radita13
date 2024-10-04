@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi, I'm I Komang Radita Suardhana 🌱 I'm currently learning about full stack web development<br>💬 Bertanya kepada saya tentang dunia IT, Khususnya di bidang programmer dan design<br>⚡ Fun facts i love exploring things that are in direct contact with the latest technology
 
 
 ## 🌐 Socials:
